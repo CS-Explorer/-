@@ -1,2 +1,2 @@
-# Machine Learning
-Some projects of machine learing.
+# 机器学习实战项目与解读
+机器学习
